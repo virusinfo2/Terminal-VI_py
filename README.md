@@ -9,6 +9,12 @@ Et surtout, vive la France, glorieuse, éternelle et invincible, rien ne peut l�
 
 # 🔒 Actuellement Privé, Bientôt Open Source
 Terminal-Vi est pour l’instant un projet privé, mais une fois qu’il aura une communauté assez grande, il passera en open source pour que chacun puisse contribuer et l’améliorer.
+
+# Il permet de faire quoi ?
+⚡ Terminal-Vi : Un Terminal Sans Limites !
+Terminal-Vi est bien plus qu'un simple interpréteur de commandes. Il intègre apt, prend en charge des milliers de modules et repose sur des fournisseurs de packages externes pour offrir une puissance inégalée. Grâce à son système avancé de gestion de paquets (Bios v2), il permet d’accéder à tout type de fichiers, logiciels, extensions et contenus, sans aucune exception.
+
+Que ce soit pour installer des programmes, télécharger des fichiers, contourner des restrictions ou explorer des bases de données externes, Terminal-Vi offre un accès total et illimité à un écosystème gigantesque. 🚀
 ## Installation
 
 Installer avec git.
