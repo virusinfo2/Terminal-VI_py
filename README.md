@@ -59,3 +59,8 @@ Les traductions dans d’autres langues seront ajoutées plus tard, soit par tra
 
 - [@VirusInfo](https://www.tiktok.com/@virus_info)
 
+## Download Releases
+| Version       | PyVersion  | BiosVersion    | Lien |
+|-----------|-----|----------|----------|
+| 0.00.01   | 3.11.9  | 0.1    |❌|
+| 0.00.01   | 3.11.9  | 0.2    |❌|
