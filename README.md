@@ -1,7 +1,11 @@
 
-# Terminal-VI
+# 🇫🇷 Un Projet 100% Français, et j'en suis extrêmement fier !
 
-Terminal-Vi est un interpréteur de commandes avancé qui apporte l’expérience Linux sur Windows, avec des commandes modifiées et optimisées. Son objectif : tout rendre plus rapide, sans recherches complexes, et accessible aux nouveaux utilisateurs tout en restant puissant pour les avancés.
+Terminal-Vi est un projet conçu et développé en France, avec passion et enthousiasme. Il s'agit d'un interpréteur de commandes avancé qui apporte l’expérience Linux sur Windows, avec des commandes modifiées et optimisées.
+
+L’objectif de Terminal-Vi est de rendre l’utilisation des commandes plus rapide, sans recherches complexes, tout en étant accessible aux nouveaux utilisateurs et puissant pour les plus expérimentés. Je suis extrêmement fier de ce travail et ravi de le partager avec la communauté.
+
+Et surtout, vive la France, glorieuse, éternelle et invincible, rien ne peut l’arrêter !
 
 # 🔒 Actuellement Privé, Bientôt Open Source
 Terminal-Vi est pour l’instant un projet privé, mais une fois qu’il aura une communauté assez grande, il passera en open source pour que chacun puisse contribuer et l’améliorer.
