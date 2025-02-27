@@ -1,5 +1,5 @@
 
-# 🇫🇷 Un Projet 100% Français, et j'en suis extrêmement fier !
+# Un Projet 100% Français, et j'en suis extrêmement fier !
 
 Terminal-Vi est un projet conçu et développé en France, avec passion et enthousiasme. Il s'agit d'un interpréteur de commandes avancé qui apporte l’expérience Linux sur Windows, avec des commandes modifiées et optimisées.
 
@@ -50,7 +50,12 @@ Non, Terminal-Vi ne remplace pas l'invite de commandes ou PowerShell. Il s'agit 
 
 #### 4.1 - Terminal-Vi est-il sécurisé à utiliser ?
 Oui, Terminal-Vi est conçu avec la sécurité en tête. Cependant, comme pour tout programme qui interagit avec votre système, il est important de toujours vérifier les sources et de faire preuve de prudence lors de l’utilisation de commandes puissantes. Il est fortement recommandé de ne pas ajouter de sources inconnues dans le gestionnaire de paquets, afin d'éviter d'exécuter des commandes ou d'installer des logiciels potentiellement malveillants.
-## Authors
+
+### 5 - Support Multilingue.
+
+#### 5.0 - 🌍 Support Multilingue à Venir ?
+Les traductions dans d’autres langues seront ajoutées plus tard, soit par traduction automatique, soit par la contribution de bénévoles. Restez à l’affût des mises à jour !
+## Auteurs
 
 - [@VirusInfo](https://www.tiktok.com/@virus_info)
 
