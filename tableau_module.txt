@@ -1,0 +1,24 @@
+#module
+
+
+Python==3.11.9=X64.7z
+      |-->DATA.crt
+      |-->Version.ini
+      |       |
+      |       |_________________
+      |       |INSTALLER == 3
+      |       |_________________
+      |
+      |-->DATA.7z
+           |
+           |-->Version.ini
+           |-->checksums.sha256
+           |-->dependency.ini
+           |-->ADD.PATH.ini
+                  |
+                  |_________________
+                  |  1: *
+                  |  2: Bin\*
+                  |  2: Bin2\Get.exe
+                  |  3: upx.exe == link.upx.exe
+                  |_________________
