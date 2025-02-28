@@ -15,7 +15,11 @@ Terminal-Vi est pour l’instant un projet privé, mais une fois qu’il aura un
 Terminal-Vi est bien plus qu'un simple interpréteur de commandes. Il intègre apt, prend en charge des milliers de modules et repose sur des fournisseurs de packages externes pour offrir une puissance inégalée. Grâce à son système avancé de gestion de paquets (Bios v2), il permet d’accéder à tout type de fichiers, logiciels, extensions et contenus, sans aucune exception.
 
 Que ce soit pour installer des programmes, télécharger des fichiers, contourner des restrictions ou explorer des bases de données externes, Terminal-Vi offre un accès total et illimité à un écosystème gigantesque. 🚀
-## Installation
+
+
+# Gestionnaire de Paquets.
+Par défaut, Terminal-Vi utilise [APT-Catalog](https://github.com/virusinfo2/APT_Catalog) comme catalogue principal pour la gestion de paquets. Cela permet d’accéder à une vaste collection de logiciels, extensions et outils, tout en facilitant l'installation et la mise à jour des paquets directement depuis le terminal.
+# Installation
 
 Installer avec git.
 
