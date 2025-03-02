@@ -47,22 +47,99 @@ Par défaut, Terminal-Vi utilise [APT-Catalog](https://github.com/virusinfo2/APT
   git clone https://github.com/virusinfo2/AutoTranslation.git
 ```
 
-# 👨‍💻 2 - Développeur
 
-## 💾 2.1 - Cache
+# ⌨️ 2 - Commande
 
-#### 🔍 inspection 
-
-```python 
-  inject:Cache.inspect()
+### Helper
+#### Voir les commandes disponible :
+```sh
+help
 ```
 
-#### 🧹 suppression  
+
+### Voicie les commandes de base :
+
+####  Module :
+Mettre à jour les fichiers d’index des dépôts.
+```sh
+apt update
+```
+
+Installer un paquet.
+```sh
+apt install <module>
+```
+
+Supprimer un paquet.
+```sh
+apt remove <module>
+```
+
+Mettre a jour les paquets.
+```sh
+apt upgrade
+```
+
+Mettre a jour le paquet.
+```sh
+apt upgrade <module>
+```
+
+Test complet sur l'entièreté des paquet (Trouver la moindre erreur).
+```sh
+check integrity
+```
+
+Proposse tous les paquets installable, le tous en une interface "GUI".
+```sh
+apt install --GUI
+```
+
+####  Autre :
+
+Afficher l'historique des commandes.
+```sh
+history
+```
+
+Permet d'injecter du code python directement dans le programme.
+```sh
+inject:<code>
+```
+
+Purger le système (Vide temp et le Cache). ⚠️ ( Non disponible ) ⚠️
+```sh
+purge
+```
+
+Mets a jour le Software. ⚠️ ( Non disponible ) ⚠️
+```sh
+sys:update
+```
+
+Afficher les information du Software. ⚠️ ( Non disponible ) ⚠️
+```sh
+sys:version
+```
+
+
+
+# 👨‍💻 3 - Développeur
+
+## 💾 3.1 - Cache
+
+#### 🔍 inspection :
 
 ```python 
-  inject:with Cache.lock: Cache.cache = {}
+inject:with Cache.lock: Cache.inspect()
 ```
-# ❓ 3 - FAQ
+
+#### 🧹 suppression :
+
+```python 
+inject:with Cache.lock: Cache.cache = {}
+```
+# ❓ 4 - FAQ
 
 ### ⚙️ 1 - OS.
 
