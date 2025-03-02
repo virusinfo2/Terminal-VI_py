@@ -25,7 +25,7 @@ Par défaut, Terminal-Vi utilise [APT-Catalog](https://github.com/virusinfo2/APT
 
 ### 💾 Installer avec Git.
 
-```bash
+```sh
   git clone https://github.com/virusinfo2/Terminal-VI_py.git
   cd Terminal-VI_py
   pip install -r requirement-Win.txt
