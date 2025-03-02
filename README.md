@@ -53,7 +53,7 @@ Par défaut, Terminal-Vi utilise [APT-Catalog](https://github.com/virusinfo2/APT
 
 ### 🔍inspection 
 
-```python 
+```sh 
 inject:Cache.inspect()
 ```
 # ❓ FAQ
