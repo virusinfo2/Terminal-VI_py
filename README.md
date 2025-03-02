@@ -47,10 +47,14 @@ Par défaut, Terminal-Vi utilise [APT-Catalog](https://github.com/virusinfo2/APT
   git clone https://github.com/virusinfo2/AutoTranslation.git
 ```
 
-# 🛠️🧠 Développeur
+# 🛠️ Développeur
 
-```bash
-jean
+## 💾 Cache
+
+### 🔍inspection 
+
+```python 
+inject:Cache.inspect()
 ```
 # ❓ FAQ
 
