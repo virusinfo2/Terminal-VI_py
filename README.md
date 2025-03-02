@@ -21,11 +21,11 @@ Que ce soit pour installer des programmes, télécharger des fichiers, contourne
 Par défaut, Terminal-Vi utilise [APT-Catalog](https://github.com/virusinfo2/APT_Catalog) comme catalogue principal pour la gestion de paquets. Cela permet d’accéder à une vaste collection de logiciels, extensions et outils, tout en facilitant l'installation et la mise à jour des paquets directement depuis le terminal.
 
 
-# 💻 Installation et traduction 🌍
+# 1 - 💻 Installation et traduction 🌍
 
 ### 💾 Installer avec Git.
 
-```python
+```bash
   git clone https://github.com/virusinfo2/Terminal-VI_py.git
   cd Terminal-VI_py
   pip install -r requirement-Win.txt
@@ -42,21 +42,27 @@ Par défaut, Terminal-Vi utilise [APT-Catalog](https://github.com/virusinfo2/APT
 
 #### 💾 Depuis Git .
 
-```bash
+```sh
   cd /Module/
   git clone https://github.com/virusinfo2/AutoTranslation.git
 ```
 
-# 🛠️ Développeur
+# 👨‍💻 2 - Développeur
 
-## 💾 Cache
+## 💾 2.1 - Cache
 
-### 🔍inspection 
+#### 🔍 inspection 
 
-```sh 
-inject:Cache.inspect()
+```python 
+  inject:Cache.inspect()
 ```
-# ❓ FAQ
+
+#### 🧹 suppression  
+
+```python 
+  inject:with Cache.lock: Cache.cache = {}
+```
+# ❓ 3 - FAQ
 
 ### ⚙️ 1 - OS.
 
