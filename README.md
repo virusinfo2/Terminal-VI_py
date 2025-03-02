@@ -35,7 +35,7 @@ Par défaut, Terminal-Vi utilise [APT-Catalog](https://github.com/virusinfo2/APT
 ### 🌍 Installer le Module de traduction automatique.
 #### 👨‍💻 Depuis le Terminal .
 
-```bash
+```sh
   apt update --all
   apt install AutoTranslation -y
 ```
@@ -45,6 +45,12 @@ Par défaut, Terminal-Vi utilise [APT-Catalog](https://github.com/virusinfo2/APT
 ```bash
   cd /Module/
   git clone https://github.com/virusinfo2/AutoTranslation.git
+```
+
+# 🛠️🧠 Développeur
+
+```bash
+jean
 ```
 # ❓ FAQ
 
