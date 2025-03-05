@@ -122,6 +122,17 @@ Afficher les information du Software. ⚠️ ( Non disponible ) ⚠️
 sys:version
 ```
 
+## 🚀 Optimisation
+
+Installe le module d'optimisation des archives ⚠️ ( Non disponible ) ⚠️
+
+Explication : Sert à installer un module qui vise à optimiser le traitement des archives en remplaçant py7zr ( module interne ) par 7zip ( module externe ) pour accélérer les opérations de compression/décompression.
+
+❗ Veuillez noter que l'installation du module peut nécessiter un peu de patience. En effet, la dépendance principale (7zip) est fournie sous forme de code source, ce qui requiert une phase de compilation. Ce processus peut durer entre 2 et 8 minutes. ❗
+
+```sh
+apt install OptiArchive
+```
 
 
 # 👨‍💻 3 - Développeur
